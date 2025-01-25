@@ -6,15 +6,6 @@ Hi there! 👋 I'm Arnau Cermeron Gallego, a **Computer Engineering student** cu
 I’m passionate about technology and constantly expanding my knowledge in both **front-end** and **back-end development**.  
 I thrive on learning, building innovative solutions, and bringing creative ideas to life.  
 
-- 👯 **Looking to Collaborate**  
-  - I'm eager to contribute to **open-source projects** and work with like-minded developers to create impactful solutions.  
-
-- ✔ **Ask Me Anything**  
-  - Feel free to reach out if you have questions, need help, or just want to discuss ideas—I'm always happy to help!  
-
-- 📫 **How to Reach Me**  
-  - **Email:** [arnaucermeron@gmail.com](mailto:arnaucermeron@gmail.com)
-
 ## 🎓 My Studies
 
 - **Degree:** International Computer Engineering  
