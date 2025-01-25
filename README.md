@@ -34,5 +34,11 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ArnauCermeron1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArnauCermeron1)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ArnauCermeron1&theme=material-palenight)](https://github.com/ArnauCermeron1)
+</div>
+
 
 
