@@ -1,14 +1,27 @@
-<h1 align="center"><b>Hi , I'm Arnau Cermeron </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Arnau Cermeron</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## ⚙️ About me
+## 👨🏻‍💻 About Me
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Vue.js
-  - Laravel
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="mailto:arnaucermeron@gmail.com">arnaucermeron@gmail.com</a>
+Hi there! 👋 I'm Arnau Cermeron Gallego, a **Computer Engineering student** currently in my third year, based in **Barcelona, Spain**.  
+I’m passionate about technology and constantly expanding my knowledge in both **front-end** and **back-end development**.  
+I thrive on learning, building innovative solutions, and bringing creative ideas to life.  
+
+- 👯 **Looking to Collaborate**  
+  - I'm eager to contribute to **open-source projects** and work with like-minded developers to create impactful solutions.  
+
+- ✔ **Ask Me Anything**  
+  - Feel free to reach out if you have questions, need help, or just want to discuss ideas—I'm always happy to help!  
+
+- 📫 **How to Reach Me**  
+  - **Email:** [arnaucermeron@gmail.com](mailto:arnaucermeron@gmail.com)
+
+## 🎓 My Studies
+
+- **Degree:** International Computer Engineering  
+- **Institution:** La Salle Campus Barcelona, Spain  
+- **Highlights:**  
+  - Completed an international exchange semester at the **Norwegian University of Science and Technology (NTNU)**.  
+  - Proficient in core programming languages and frameworks, focusing on both front-end and back-end development.  
 
 ## ⚙️ My Skills
 
@@ -42,9 +55,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href= "https://www.instagram.com/arnaucermeron/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
-
-
-
