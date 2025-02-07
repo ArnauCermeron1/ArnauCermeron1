@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Arnau Cermeron Gallego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 👨🏻‍💻 About Me
-
+s
 Hi there! 👋 I'm a **Computer Engineering student** currently in my third year, based in **Barcelona, Spain**.  
 I’m passionate about technology and constantly expanding my knowledge in both **front-end** and **back-end development** as well as **AI** and **Data Management**. I thrive on learning, building innovative solutions, and bringing creative ideas to life.  
 
