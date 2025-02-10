@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hi, I'm Arnau Cermeron Gallego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
-
-
 ## 👨🏻‍💻 About Me
 
 Hi there! 👋 I'm a **Computer Engineering student** currently in my third year, based in **Barcelona, Spain**.  
