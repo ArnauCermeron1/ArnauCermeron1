@@ -5,7 +5,6 @@
 Hi there! 👋 I'm a **Computer Engineering student** currently in my third year, based in **Barcelona, Spain**.  
 I’m passionate about technology and constantly expanding my knowledge in both **front-end** and **back-end development** as well as **AI** and **Data Management**. I thrive on learning, building innovative solutions, and bringing creative ideas to life.  
 
-
 ## 🎓 My Studies
 
 - **Degree:** International Computer Engineering  
