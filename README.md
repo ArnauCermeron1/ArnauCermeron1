@@ -7,6 +7,7 @@ I’m passionate about technology and constantly expanding my knowledge in both 
 
 ## 🎓 My Studies
 
+
 - **Degree:** International Computer Engineering  
 - **Institution:** La Salle Campus Barcelona, Spain  
 - **Highlights:**  
