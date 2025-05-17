@@ -11,7 +11,7 @@ I’m passionate about technology and constantly expanding my knowledge in **bac
 - **Institution:** La Salle Campus Barcelona, Spain  
 - **Highlights:**  
   - Completed an international exchange semester at the **Norwegian University of Science and Technology (NTNU)**.  
-  - Proficient in core programming languages and frameworks, focusing on both front-end and back-end development.  
+  - Proficient in core programming languages and frameworks, focusing on back-end development.
 
 ## ⚙️ My Skills
 
