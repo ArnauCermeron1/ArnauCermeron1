@@ -6,6 +6,13 @@ Hi! 👋 I'm a **Computer Engineering student** in my fourth year, based in **Ba
 I'm especially interested in **backend development**, **cybersecurity**, **AI**, and how complex systems are built and maintained in real environments. I enjoy solving technical problems, learning new tools, and improving through hands-on projects both at university and in industry.
 I’m on track to graduate in **February 2027**.
 
+## 💼 Professional Experience
+
+* **Junior Full-Stack Software Engineer — <a href="https://www.tranxfer.com/" target="_blank">Tranxfer</a>**
+
+  I joined Tranxfer as a **summer intern in 2025**, and after the internship ended, I was **hired again** thanks to the quality of my work and reliability. I currently continue in the role while completing my studies.
+  My work spans full-stack development using **Java Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **CI/CD pipelines**. I contribute to new features, debugging, system improvements, and infrastructure tasks in a production environment focused on security and scalability.
+
 ## 🎓 My Studies
 
 * **Degree:** International Computer Engineering
@@ -14,13 +21,6 @@ I’m on track to graduate in **February 2027**.
 
   * Completed an international exchange semester at the **Norwegian University of Science and Technology (NTNU)**.
   * Strong background in software engineering, backend systems, and applied AI, supported by practical coursework and projects.
-
-## 💼 Professional Experience
-
-* **Software Engineer Intern — <a href="https://www.tranxfer.com/" target="_blank">Tranxfer</a>**
-
-  I joined Tranxfer as a **summer intern in 2025**, and after the internship ended, I was **hired again** thanks to the quality of my work and reliability. I currently continue in the role while completing my studies.
-  My work spans full-stack development using **Java Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **CI/CD pipelines**. I contribute to new features, debugging, system improvements, and infrastructure tasks in a production environment focused on security and scalability.
 
 ## ⚙️ My Skills
 
