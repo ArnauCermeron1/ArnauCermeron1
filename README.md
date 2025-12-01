@@ -17,7 +17,7 @@ I’m on track to graduate in **February 2027**.
 
 ## 💼 Professional Experience
 
-* **Software Engineer Intern — [Tranxfer](https://www.tranxfer.com/){:target="_blank"}**
+* **Software Engineer Intern — <a href="https://www.tranxfer.com/" target="_blank">Tranxfer</a>**
 
   I joined Tranxfer as a **summer intern in 2025**, and after the internship ended, I was **hired again** thanks to the quality of my work and reliability. I currently continue in the role while completing my studies.
   My work spans full-stack development using **Java Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **CI/CD pipelines**. I contribute to new features, debugging, system improvements, and infrastructure tasks in a production environment focused on security and scalability.
@@ -49,7 +49,7 @@ I’m on track to graduate in **February 2027**.
 
 ## 🤝🏻 Connect with Me
 
-<a target="_blank" href="https://www.linkedin.com/in/arnau-cermeron-gallego/">
+<a href="https://www.linkedin.com/in/arnau-cermeron-gallego/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:arnaucermeron@gmail.com">
