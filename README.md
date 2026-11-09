@@ -1,60 +1,34 @@
-<h1 align="center"><b>Hi, I'm Arnau Cermeron Gallego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="assets/header.png" alt="Arnau Cermeron Gallego, Infrastructure & Platform Engineer" width="100%">
 
-## 👨🏻‍💻 About Me
+I'm a platform engineer who thinks like an architect. I care about why a system is built a certain way, what it costs and who it affects, not just about getting it running.
 
-Hi! 👋 I'm a **Computer Engineering student** in my fourth year, based in **Barcelona**.
-I'm especially interested in **backend development**, **cybersecurity**, **AI**, and how complex systems are built and maintained in real environments. I enjoy solving technical problems, learning new tools, and improving through hands-on projects both at university and in industry.
-I’m on track to graduate in **February 2027**.
+At [Tranxfer](https://www.tranxfer.com/) I'm responsible for the infrastructure behind a secure file-exchange platform used by banks, insurers and other regulated companies, across AWS, GCP and Azure. Based in Barcelona.
 
-## 💼 Professional Experience
+### What I work on
 
-* **Junior Full-Stack Software Engineer — <a href="https://www.tranxfer.com/" target="_blank">Tranxfer</a>**
+- **Multi-cloud platform.** Kubernetes on AWS, GCP and Azure, defined in Terraform and deployed with GitOps through Argo CD.
+- **On-demand environments.** Every feature gets its own isolated environment, created and removed from its pipeline. I designed and built it as my Bachelor's thesis and it's now part of the team's daily workflow.
+- **Reliability.** Monitoring and alerting in Datadog that points to real problems, and root-cause analysis from the infrastructure down to the application code.
+- **Security.** Finding and fixing weaknesses across a platform that regulated clients depend on.
 
-  I joined Tranxfer as a **summer intern in 2025**, and after the internship ended, I was **hired again** thanks to the quality of my work and reliability. I currently continue in the role while completing my studies.
-  My work spans full-stack development using **Java Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **CI/CD pipelines**. I contribute to new features, debugging, system improvements, and infrastructure tasks in a production environment focused on security and scalability.
+### How I work
 
-## 🎓 My Studies
+- I put the trade-offs on the table. Before building, I compare the options, pick one and write down why.
+- I explain decisions so people can act on them, from a design doc for engineers to a proposal with costs and risks for the business.
+- I treat cost and performance as design goals, not something to fix later.
 
-* **Degree:** International Computer Engineering
-* **Institution:** La Salle Campus Barcelona
-* **Highlights:**
+### Stack
 
-  * Completed an international exchange semester at the **Norwegian University of Science and Technology (NTNU)**.
-  * Strong background in software engineering, backend systems, and applied AI, supported by practical coursework and projects.
+- **Cloud:** AWS · Google Cloud · Azure
+- **Platform:** Kubernetes · Helm · Argo CD · Terraform · Docker
+- **Delivery and observability:** Bitbucket Pipelines · Datadog
+- **Code:** Python · Bash · Java / Spring Boot · TypeScript · Angular
+- **Data:** PostgreSQL · Redis
 
-## ⚙️ My Skills
+### Background
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
+I started as a full-stack developer, so I reason about the whole system and not just the infrastructure layer. I'm finishing International Computer Engineering at La Salle Barcelona (February 2027), including a semester at NTNU in Norway and short programmes in the US and Japan.
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-</span>
+Most of my day-to-day work lives in private repositories.
 
-## 🤝🏻 Connect with Me
-
-<a href="https://www.linkedin.com/in/arnau-cermeron-gallego/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:arnaucermeron@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</div>
-
-
+[LinkedIn](https://www.linkedin.com/in/arnau-cermeron-gallego/) · [Email](mailto:arnaucermeron@gmail.com)
